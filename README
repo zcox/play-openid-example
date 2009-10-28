@@ -3,3 +3,5 @@ Simple example of a Play app that uses OpenID to handle user authentication.  Th
 I have successfully authenticated with myopenid.com and flickr.com OpenID providers.  The wordpress.com OpenID provider does not work with this app, not sure why.  I have not tried any other OpenID providers.
 
 Note that this project runs on port 9090 (the default port 9000 was conflicting with something in Eclipse).
+
+To run this app just clone this repo, execute "play run" and visit http://localhost:9090.
